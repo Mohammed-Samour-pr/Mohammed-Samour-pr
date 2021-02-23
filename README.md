@@ -16,12 +16,12 @@
   </p>
 </p>
 <p>
-  📣 Quer falar comigo?<br/>
+  📣 Want to talk to me?<br/>
   <a href="mailto:mohammed.samour.pr@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
  
 
 <img src="http://views.whatilearened.today/views/github/Mohammed-Samour-pr/views.svg"/>
-<h3>⚡️ Um pouco sobre mim ⚡️</h3><br/>
+<h3>⚡️ A little about myself ⚡️</h3><br/>
 <p>
   I am Muhammad Sammour .. a software developer
 💻 Developer of web applications, Larvel, Android applications, and desktop applications
