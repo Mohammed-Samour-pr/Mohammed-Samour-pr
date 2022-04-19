@@ -23,7 +23,7 @@
 <img src="http://views.whatilearened.today/views/github/Mohammed-Samour-pr/views.svg"/>
 <h3>⚡️ A little about myself ⚡️</h3><br/>
 <p>
-  I am Muhammad Sammour .. a software developer
+  I am Mohammad Sammour .. a software developer
 💻 Developer of web applications, Larvel, Android applications, and desktop applications
 Contact me via email.
 </p>
